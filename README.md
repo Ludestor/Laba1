@@ -9,6 +9,8 @@
 
 ## Визуализация данных
 Топ-15 наиболее оплачиваемых профессий в Data Science
+
+
 ![image](https://github.com/Ludestor/Laba1/assets/119999440/84f99896-e720-49b7-82f5-5c10041772ee)
 
 
@@ -18,6 +20,8 @@
 ![image](https://github.com/Ludestor/Laba1/assets/119999440/0e049145-a2ae-447e-9836-69cf752b1d60)
 
 Средняя зарплата по размеру компании
+
+
 ![image](https://github.com/Ludestor/Laba1/assets/119999440/142fc607-e881-443a-9ef3-0c54535acd35)
 
 ## Замечания
