@@ -11,6 +11,7 @@
 Топ-15 наиболее оплачиваемых профессий в Data Science
 ![image](https://github.com/Ludestor/Laba1/assets/119999440/84f99896-e720-49b7-82f5-5c10041772ee)
 
+
 Средняя заработная плата в зависимости от опыта
 ![image](https://github.com/Ludestor/Laba1/assets/119999440/0e049145-a2ae-447e-9836-69cf752b1d60)
 
