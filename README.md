@@ -4,7 +4,7 @@
 Датасет [Data Science Salary 2021 to 2023.csv](https://github.com/Ludestor/Laba1/files/14027823/Data.Science.Salary.2021.to.2023.csv)
 
 ## Запуск кода
-Загрузите датасет в Google Colab
+Загрузите датасет в Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1e_TfleLai3ld1Mj0txuKIqx5quM-7LvK?hl=ru_RU](https://colab.research.google.com/drive/1VybnCHQvG4m4v40xOJQsAVKs3Llhh4-B#scrollTo=IqkZTkqDV-jQ))
 После этого запустите код из приложенного файла Лаба1
 
 ## Визуализация данных
